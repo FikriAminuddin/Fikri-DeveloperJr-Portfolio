@@ -13,7 +13,7 @@ const Contact: React.FC<{}> = () => {
           GET IN TOUCH
         </p>
         <p className="text-gray-300 text-center">
-          I'm excited to connect and discuss potential opportunities. Whether
+          I&apos;m excited to connect and discuss potential opportunities. Whether
           you have a project in mind, want to collaborate, or just want to say
           hello, feel free to reach out!
           <br />
