@@ -9,8 +9,8 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ibiimemon.com/"),
-  title: "Fikri Aminuddin - SWE | IXD | UX",
+  metadataBase: new URL("https://fikri-portfolio-developerjr.vercel.app/"),
+  title: "Fikri Aminuddin",
   description:
     "Junior Developer from Malaysia with 1+ years of expertise. Junior Developer. Specializing web apps, UX, and JavaScript technologies.",
   keywords: [
@@ -22,13 +22,13 @@ export const metadata: Metadata = {
     "React",
   ],
   openGraph: {
-    title: "Fikri Aminuddin - SWE | IXD | UX",
+    title: "Fikri Aminuddin",
     description:
       "Junior Developer from Malaysia with 1+ years of expertise. Junior Developer. Specializing web apps, UX, and JavaScript technologies.",
     images: "/OpenGraph.jpg",
   },
   alternates: {
-    canonical: "https://ibiimemon.com/",
+    canonical: "https://fikri-portfolio-developerjr.vercel.app/",
   },
 };
 

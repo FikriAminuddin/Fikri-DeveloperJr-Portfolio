@@ -8,7 +8,7 @@ const Navbar: React.FC<{}> = () => {
     <div className="w-full h-[65px] bg-['#111'] fixed backdrop-blur-sm z-50 px-10">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a
-          title="ibrahim logo"
+          title="Fikri logo"
           href="/"
           className="h-auto w-auto flex flex-row items-center"
         >

@@ -31,7 +31,7 @@ const Banner: React.FC<{}> = () => {
         </div>
 
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Junior Developer with a focus on React development,
+          Passionate Junior Developer with a focus on Web/System Development,
           dedicated to crafting elegant and user-friendly web development applications.
         </p>
         <div className="text-md flex justify-center">
