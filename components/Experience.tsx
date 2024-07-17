@@ -3,7 +3,7 @@ import React from "react";
 
 const Experience: React.FC<{}> = () => {
   return (
-    <section id="experience">
+    <section id="experience" className="min-h-screen py-10">
       <h2 className="text-white font-semibold text-center text-6xl   pt-[35px]">
         EXPERIENCE
       </h2>

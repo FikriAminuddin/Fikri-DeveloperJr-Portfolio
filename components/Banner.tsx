@@ -17,8 +17,8 @@ const Banner: React.FC<{}> = () => {
           />
         </div>
 
-        <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Muhammad Fikri Aminuddin bin Fauzi!
+        <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[800px] w-auto h-auto">
+          Fikri Aminuddin
         </div>
         <div className="flex justify-center">
           <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
@@ -30,11 +30,11 @@ const Banner: React.FC<{}> = () => {
           <Image src="/popcorn.gif" height={50} width={50} alt="chill" />
         </div>
 
-        <p className="text-md text-gray-200 my-5 max-w-[600px]">
+        {/* <p className="text-md text-gray-200 my-5 max-w-[600px]">
           Passionate Junior Developer with a focus on Web/System Development,
           dedicated to crafting elegant and user-friendly web development applications.
-        </p>
-        <div className="text-md flex justify-center">
+        </p> */}
+        <br /><div className="text-md flex justify-center">
           <button
             onClick={() => window.open("mailto:mdfikriaminuddin@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent ">
